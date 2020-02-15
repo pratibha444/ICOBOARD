@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.20)  15 FEB 2020 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.20)  15 FEB 2020 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1182,7 +1182,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
 Here is how much of TeX's memory you used:
  20838 strings out of 494805
  379691 string characters out of 6177999
- 528812 words of memory out of 5000000
+ 530812 words of memory out of 5000000
  23722 multiletter control sequences out of 15000+600000
  58768 words of font info for 125 fonts, out of 8000000 for 9000
  84 hyphenation exceptions out of 8191
@@ -1194,7 +1194,7 @@ e/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist
 utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ICOBOARD.pdf (3 pages, 515763 bytes).
+Output written on ICOBOARD.pdf (3 pages, 515804 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
