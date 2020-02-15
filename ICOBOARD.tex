@@ -243,7 +243,8 @@ cd yosys && make -j4 && sudo make install
 \item For example connect all the input pins to GND pin on bread board\\
 \item Now open the terminal give the following commands\\
 \begin{lstlisting}
-cd ICOBOARD
+cd icoboard
+cd trunk
 cd codes
 cd Binary
 make v_fname=binary
@@ -265,8 +266,9 @@ The pin configuration of seven segment display is shown in fig 1.
 \begin{itemize}
 \item Open the terminal and execute the following commands
 \begin{lstlisting}
-cd ICOBOARD
+cd icoboard
 cd codes
+cd trunk
 cd seven
 make v_fname=seven
 python seven.py
